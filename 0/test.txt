@@ -1,0 +1,8 @@
+split abababbaaaaabbabaa
+reverse abaaa
+split abababbaaaaabbabaa
+split abababbaaaaabbabaa
+split abababbaaaaabbabaa
+reverse abaaa
+reverse abaaa
+reverse abaaa
